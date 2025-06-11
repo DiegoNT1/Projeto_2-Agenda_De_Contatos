@@ -29,7 +29,9 @@ Você pode visualizar o projeto online neste link:
 https://projeto-2-agenda-de-contatos-zeta.vercel.app
 
 Instalação e Uso
-
+```bash
+Copiar
+Editar
 # 1. Clone este repositório
 git clone https://github.com/DiegoNT1/Projeto_2-Agenda_De_Contatos.git
 
@@ -38,15 +40,17 @@ cd Projeto_2-Agenda_De_Contatos
 
 # 3. Abra o arquivo index.html no seu navegador
 # Você pode usar http-server, Live Server do VSCode, ou simplesmente dar duplo clique no arquivo.
-
+```
 Estrutura de Pastas
-
+```bash
+Copiar
+Editar
 /
 ├── images/       # ícones e imagens usados na aplicação
 ├── index.html    # ponto de entrada da aplicação
 ├── main.css      # estilos visuais
 └── main.js       # lógica de interação e armazenamento
-
+```
 Como Funciona
 O usuário preenche o formulário com nome, telefone e e-mail.
 
@@ -57,3 +61,4 @@ O botão Editar permite atualizar os dados de um contato selecionado.
 O botão Excluir remove o contato da lista e do armazenamento.
 
 Os contatos são carregados automaticamente ao recarregar a página, graças ao Local Storage.
+
