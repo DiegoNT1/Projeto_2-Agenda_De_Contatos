@@ -30,7 +30,6 @@ https://projeto-2-agenda-de-contatos-zeta.vercel.app
 
 Instalação e Uso
 ```bash
-Editar
 # 1. Clone este repositório
 git clone https://github.com/DiegoNT1/Projeto_2-Agenda_De_Contatos.git
 
@@ -42,7 +41,6 @@ cd Projeto_2-Agenda_De_Contatos
 ```
 ## Estrutura de Pastas
 ```bash
-Editar
 /
 ├── images/       # ícones e imagens usados na aplicação
 ├── index.html    # ponto de entrada da aplicação
